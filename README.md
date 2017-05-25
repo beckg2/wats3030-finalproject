@@ -12,3 +12,6 @@ Increase the technical complexity of your project. (e.g. Rather than deploying a
 Create a new theme for your webapp. (Build a theme for your chosen webapp starting with their theme starter kit, using whatever techniques and approaches they require.)
 Combine apps in an innovative way. (e.g. Can you attach a great gallery system to your Wordpress install? Set up BuddyPress and integrate a service that tracks hikes?)
 Build a custom frontend. (Some webapps make it easy to reveal a RESTful API that can be accessed from a custom frontend built with HTML, CSS and Javascript. This means you can use, for example, the content management admin and database from Wordpress, but deliver content through a totally custom creative frontend you build using different fancy Javascript libraries.)
+
+
+SITE URL:  http://diveourplanet.gbeckdesigns.com/
